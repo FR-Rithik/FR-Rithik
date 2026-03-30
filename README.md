@@ -79,8 +79,6 @@ Problem-solving is my core strength. I have solved **1200+ algorithmic problems*
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FR-Rithik&show_icons=true&theme=radical" alt="Rithik's GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=FR-Rithik&theme=radical" alt="Rithik's Streak" width="48%" />
