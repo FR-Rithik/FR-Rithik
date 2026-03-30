@@ -18,13 +18,30 @@
 I am a Computer Science & Engineering student at Rajshahi University of Engineering & Technology (RUET), graduating in 2026. I have a strong foundation in **C++, Data Structures & Algorithms, and Object-Oriented Programming**. 
 
 Alongside competitive programming, I love building robust backend systems, REST APIs, and high-performance software.
-
-- 🔭 Currently working on: Mastering System-Level C++ and Advanced Backend Architecture.
-- 💡 Deeply interested in: **High-performance computing, Multithreading, and Database Design.**
 - 🎓 Education: B.Sc. in CSE, RUET (2022 - 2026).
 
 ---
+<!--### 🏆 Competitive Programming
 
+Problem-solving is my core strength. I have solved **1200+ algorithmic problems** across various platforms.
+
+- **Codeforces:** Specialist (Max Rating: **1422**) | Solved 1000+ problems
+- **ICPC:** Asia Dhaka Regional **2025** Regionalist
+- **National Contests:** Participant in NCPC 2023 (JU) & IUPC 2025 (DUET)
+- **Intra-University:** Rank 6th in CODESPARK 2022 & CODESMASH 2021 (RUET)
+
+---
+This is a comment and will be hidden -->
+
+
+### 🛠️ Technical Skills
+
+**Languages:**
+<br/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 ### 🏆 Competitive Programming
 
 Problem-solving is my core strength. I have solved **1200+ algorithmic problems** across various platforms.
@@ -35,16 +52,6 @@ Problem-solving is my core strength. I have solved **1200+ algorithmic problems*
 - **Intra-University:** Rank 6th in CODESPARK 2022 & CODESMASH 2021 (RUET)
 
 ---
-
-### 🛠️ Technical Skills
-
-**Languages:**
-<br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
 **Backend & Databases:**
 <br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -72,7 +79,9 @@ Problem-solving is my core strength. I have solved **1200+ algorithmic problems*
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FR-Rithik&show_icons=true&theme=radical" alt="Rithik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FR-Rithik&theme=radical" alt="Rithik's Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=FR-Rithik&theme=radical" alt="Rithik's Streak" width="48%" />
 </p>
