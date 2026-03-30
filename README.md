@@ -71,8 +71,8 @@ Problem-solving is my core strength. I have solved **1200+ algorithmic problems*
 
 ### 🚀 Featured Projects
 
-* 💻 **[Student Record Management System](https://github.com/FR-Rithik/Student-Record-Management-System):** A modular console application built with **C++ OOP**, leveraging file I/O for persistent storage and the **C++ STL** (`std::find_if`, `std::sort`) for efficient search, sort, and validation operations.
 * ⚙️ **[Road Damage API](https://github.com/FR-Rithik/road-damage-api):** A robust backend REST API built with **FastAPI**. Features X-API-Key authentication, **PostgreSQL + SQLAlchemy** for data persistence, **Alembic** migrations, and is containerized using **Docker Compose**.
+* 💻 **[Student Record Management System](https://github.com/FR-Rithik/Student-Record-Management-System):** A modular console application built with **C++ OOP**, leveraging file I/O for persistent storage and the **C++ STL** (`std::find_if`, `std::sort`) for efficient search, sort, and validation operations.
 * 📚 **[Library Management System](https://github.com/FR-Rithik/Library-Management):** A web application developed with **Node.js and MongoDB** implementing role-based access control, authentication, and structured modular CRUD APIs.
 
 ---
